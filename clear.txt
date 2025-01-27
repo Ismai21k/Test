@@ -1,0 +1,5 @@
+The easiest way to clear the Command Prompt screen 
+
+is by using the "cls" command 
+
+in the following manner.
